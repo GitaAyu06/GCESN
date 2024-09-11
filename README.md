@@ -15,7 +15,7 @@ GCESN implementation in a graph transformer model for brain evolution prediction
 
 ## Source Code
 #### Installation
-GCESN was developed using Python version 3.10.12 with CUDA toolkit v12.0. All library that is used for running GCESN codes ara available in [requirements](requirements.txt). Before running all codes in this repository, installed all the required libraries by running the following command on terminal
+GCESN was developed using Python version 3.10.12 with CUDA toolkit v12.0. All library that is used for running GCESN codes are available in [requirements](requirements.txt). Before running all codes in this repository, installed all the required libraries by running the following command on terminal
 
 ```
 pip install -r requirements.txt

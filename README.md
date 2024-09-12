@@ -3,7 +3,7 @@ We proposed a reservoir-based graph convolution network, which updates node embe
 
 GCESN consits of three components, which are the input layer, the graph convolution reservoir layer, the and the linear output layer.
 
-![gcesn](images/gcesn-1layer_compressed.png)
+![gcesn](images/gcesn-1layer.png)
 
 ### GCESN Implementation for Graph Classification
 GCESN implementation in a graph classification model is illustrated in the figure below:
